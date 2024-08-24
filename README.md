@@ -1,4 +1,4 @@
-# LAB 06: - Self-Driving Cars + Static Method
+# Lab 06 - Self-Driving Cars + Static Method
 
 _Learning Objective: demonstrate the fundamentals of defining/calling static methods by debriefing on the article reading._
 
